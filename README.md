@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/azure-cli.svg?maxAge=2592000)](https://pypi.python.org/pypi/azure-cli)
 [![Build Status](https://dev.azure.com/azure-sdk/public/_apis/build/status/cli/Azure.azure-cli?branchName=dev)](https://dev.azure.com/azure-sdk/public/_build/latest?definitionId=246&branchName=dev)
 [![Slack](https://img.shields.io/badge/Slack-azurecli.slack.com-blue.svg)](https://azurecli.slack.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcceneag%2Fazure-cli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcceneag%2Fazure-cli?ref=badge_shield)
 
 A great cloud needs great tools; we're excited to introduce *Azure CLI*, our next generation multi-platform command line experience for Azure.
 
@@ -221,3 +222,7 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 
 If you would like to become an active contributor to this project please
 follow the instructions provided in [Microsoft Open Source Guidelines](https://opensource.microsoft.com/collaborate).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcceneag%2Fazure-cli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcceneag%2Fazure-cli?ref=badge_large)
